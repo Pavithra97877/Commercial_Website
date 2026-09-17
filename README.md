@@ -1,5 +1,6 @@
 # Ex02 Commercial Website
-## Date:
+# NAME : PAVITHRA S
+# REG NO : 212223220072
 
 ## AIM
 To create a commercial website using CSS Flexbox.
